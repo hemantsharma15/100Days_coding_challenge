@@ -1,0 +1,10 @@
+package javaquestion;  // Package declaration
+
+public class Day1  // Class name follows PascalCase
+{
+    public static void main(String args[])  // Standard parameter name
+    {
+        System.out.println("Hello Duniya");  
+        System.out.println("Finally, I have accepted the 100-day coding challenge!");
+    }
+}
